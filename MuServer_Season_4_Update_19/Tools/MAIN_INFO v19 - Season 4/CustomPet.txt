@@ -1,0 +1,22 @@
+//////////////////////////////////////////////
+//Custom Pets by louis
+//////////////////////////////////////////////
+//Types
+//Moviment like a:
+// 0 -> Demon
+// 1 ->	Rudolf
+// 2 -> Fenrir (Mount)
+// 3 -> Dark Horse (Mount)
+// 4 -> Dinorant (Mount)
+// 5 -> Muun Pet
+//////////////////////////////////////////////
+//	#Index	#Type	#Size	#DropSize	#Height		#Tranparency	#FenrirEffect	#ModelName
+//	6856  	5   	1.0	0.2		0.0		0		0		"bogeonpet_evol"
+//	6857    5   	1.0	0.2		0.0		0		0		"angrychickenUp_"
+//	6858    1   	1.0	0.2		0.0		0		0		"mewtwo"
+//	6859    1   	1.0	0.2		0.0		0		0		"adventurecat_"
+//	6860    0   	1.0	0.2		0.0		0		0		"Behemothpet_evol"
+//	6861    2   	0.89	0.2		0.0		0		0		"fenrir_gold"
+//	6862    4   	1.0	0.2		0.0		0		0		"Pet_YYXS"
+//	6863    3   	1.0	0.2		0.0		0		0		"DarkHorsev3"
+end

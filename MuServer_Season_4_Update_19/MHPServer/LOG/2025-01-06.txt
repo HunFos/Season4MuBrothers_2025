@@ -1,0 +1,7 @@
+20:47:42 [SocketManager] Server started at port [55999]
+20:47:42 [ServerInfo] Config loaded successfully
+20:47:42 [ServerInfo] DumpList loaded successfully
+20:47:42 [ServerInfo] ChecksumList loaded successfully
+20:47:42 [ServerInfo] InternalList loaded successfully
+20:47:42 [ServerInfo] WindowList loaded successfully
+20:47:42 [ServerInfo] BlackList loaded successfully

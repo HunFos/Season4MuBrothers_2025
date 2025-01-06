@@ -1,0 +1,3 @@
+21:32:32 [AccountInfo] Account connected (Account: HunStarr, IpAddress: 25.60.79.171, GameServerCode: 0)
+21:38:06 [AccountInfo] Account connected (Account: HunStarr, IpAddress: 25.60.79.171, GameServerCode: 0)
+21:38:15 [AccountInfo] Account disconnected (Account: HunStarr, IpAddress: 25.60.79.171, GameServerCode: 0)
